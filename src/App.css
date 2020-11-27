@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.app-header-logo {
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  width: 100px;
+}
+
+.app-header-menus {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.app-header-menu-item {
+  padding: 0 16px;
+}
+
+.app-content {
+  height: 100vh;
+  padding: 32px;
+}
